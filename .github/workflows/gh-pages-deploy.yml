@@ -17,13 +17,14 @@ jobs:
 
       - uses: borales/actions-yarn@v3.0.0
         with:
-          cmd: install # will run `yarn install` command
-      
-      - uses: borales/actions-yarn@v3.0.0
-        with:
-          cmd: build # will run `yarn build` command
+          cmd: install
+
+      - name: Run predeploy script
+        run: |
+          git config user.name "BojanSof" && git config user.email "bojan.drago@gmail.com"
+          npm run predeploy
 
       - name: Run deploy script
         run: |
           git config user.name "BojanSof" && git config user.email "bojan.drago@gmail.com"
-          npm run gh-pages-deploy
+          npm run deploy
