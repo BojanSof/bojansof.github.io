@@ -23,7 +23,8 @@ jobs:
         with:
           cmd: build
 
-      - name: Run deploy script
-        run: |
-          git config user.name "BojanSof" && git config user.email "bojan.drago@gmail.com"
-          npm run deploy
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
