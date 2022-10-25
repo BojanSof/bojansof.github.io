@@ -1,9 +1,10 @@
 {
   "name": "kielx-portfolio",
   "private": true,
-  "description": "Krzysztof Pantak software developer portfolio",
+  "description": "Bojan Sofronievski portfolio",
+  "homepage": "https://BojanSof.github.io",
   "version": "0.1.0",
-  "author": "Krzysztof Pantak <kielx.dev@gmail.com>",
+  "author": "Bojan Sofronievski <bojan.drago@gmail.com>",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
@@ -35,6 +36,7 @@
   },
   "devDependencies": {
     "eslint-plugin-pretty-imports": "^1.3.0",
+    "gh-pages": "^4.0.0",
     "prettier": "2.2.1"
   },
   "keywords": [
@@ -48,7 +50,9 @@
     "start": "yarn run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
