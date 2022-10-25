@@ -3,6 +3,7 @@ require("dotenv").config({
 })
 
 module.exports = {
+  pathPrefix: "/terminal-portfolio",
   siteMetadata: {
     title: `Krzysztof Pantak Portfolio`,
     titleTemplate: `%s | Krzysztof Pantak Portfolio`,
