@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-js",
+    "path": "/projects/expenses-analyzer",
+    "result": {"data":{"markdownRemark":{"html":"<p>Expenses analyzer is a React-based app, that allows the user to analyze bank statements from (at the moment) polish Mbank bank accounts.</p>","frontmatter":{"listName":"📈 /Expenses Analyzer","nameOfClass":"projects-items","popupGithubLink":"https://github.com/Kielx/expenses-analyzer","popupImageAlt":"Expenses analyzer screenshot","popupImageSrc":"expensesAnalyzer.png","popupLiveLink":"https://expenses-analyzer.pantak.net/","techIcons":["react","html5","css3","bootstrap","d3dotjs"],"title":"Expenses Analyzer","video":"false"}}},"pageContext":{"slug":"projects/expenses-analyzer"}},
+    "staticQueryHashes": ["4202924991"]}

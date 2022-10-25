@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-js",
+    "path": "/projects/phonebook",
+    "result": {"data":{"markdownRemark":{"html":"<p>The project is a part 3 of Fullstackopen course held by The University of Helsinki which is the oldest and largest science university in Finland, with an international scientific community of 40,000 people. Part3 summarizes work from previous parts with a Phonebook project. It's a RESTful API for phonebook, with build scripts that allow to integrate React frontend from Part2 of the course. RESTful API can be acessed separateley from frontend.</p>","frontmatter":{"listName":"☎️ /Phonebook","nameOfClass":"projects-items","popupGithubLink":"https://github.com/Kielx/fullstackopen-part3","popupImageAlt":"Phonebook app","popupImageSrc":"phonebook.png","popupLiveLink":"https://fullstackopen-phonebook-api.herokuapp.com/","techIcons":["mongodb","express","react","nodedotjs","bootstrap","html5","css3","heroku"],"title":"Phonebook","video":"false"}}},"pageContext":{"slug":"projects/phonebook"}},
+    "staticQueryHashes": ["4202924991"]}

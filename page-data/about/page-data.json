@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-js",
+    "path": "/about",
+    "result": {"data":{"markdownRemark":{"html":"<h2>Krzysztof Pantak</h2>\n<p>Software Developer based in Kielce Poland 🇵🇱.<br>\nCS Sophomore at the Kielce University of Technology.<br>\nPassionate about Frontend, Backend, Cloud Technologies, and everything tech-related.<br>\nAlso a Strength Coach and a family man.</p>","frontmatter":{"listName":"👨‍💻 /About","nameOfClass":null,"popupGithubLink":"https://github.com/Kielx","popupImageAlt":"Cartoon photo of myself","popupImageSrc":"mojephoto.jpg","popupLiveLink":null,"techIcons":["javascript","nodedotjs","react","html5","css3","cplusplus","c","python","mongodb","express","bootstrap","sass","heroku","netlify","postman","d3dotjs","archlinux","linux","windowsterminal","fontawesome","tailwindcss","amazondynamodb","amazonaws"],"title":"About me","video":"false"}}},"pageContext":{"slug":"/about"}},
+    "staticQueryHashes": ["4202924991"]}
