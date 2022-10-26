@@ -3,39 +3,19 @@ slug: "/about"
 video: "false"
 listName: "👨‍💻 /About"
 title: "About me"
-popupImageSrc: "mojephoto.jpg"
+popupImageSrc: "bojan-sofronievski.jpg"
 popupImageAlt: "Cartoon photo of myself"
-popupGithubLink: "https://github.com/Kielx"
+popupGithubLink: "https://github.com/BojanSof"
 techIcons: [
-        "javascript",
-        "nodedotjs",
-        "react", 
-        "html5",
-        "css3",
         "cplusplus", 
         "c",
-        "python",
-        "mongodb",
-        "express",
-        "bootstrap", 
-        "sass",
-        "heroku",
-        "netlify",
-        "postman",
-        "d3dotjs", 
-        "archlinux",
-        "linux",
-        "windowsterminal",
-        "fontawesome",
-        "tailwindcss",
-        "amazondynamodb",
-        "amazonaws"
+        "python", 
+        "linux"
       ]
 ---
 
-## Krzysztof Pantak
+## Bojan Sofronievski
 
-Software Developer based in Kielce Poland 🇵🇱.<br>
-CS Sophomore at the Kielce University of Technology.<br>
-Passionate about Frontend, Backend, Cloud Technologies, and everything tech-related.<br>
-Also a Strength Coach and a family man.
+Electrical engineer based in Macedonia 🇲🇰.<br>
+BSc in Electrical Engineering and Information Technologies, Computer Hardware Engineering and Electronics.<br>
+Passionate about Embedded Software Development, Signal Processing, Algorithm Development, and everything tech-related.<br>

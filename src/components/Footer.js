@@ -58,7 +58,7 @@ const Footer = () => {
         )}
         {" | "}
         <a
-          href="https://www.github.com/Kielx"
+          href="https://www.github.com/BojanSof"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -73,7 +73,7 @@ const Footer = () => {
           paddingBottom: "10px",
         }}
       >
-        © 2021-{new Date().getFullYear()} Krzysztof Pantak {" | "} Source code
+        © 2022-{new Date().getFullYear()} Bojan Sofronievski {" | "} Source code
         distributed under MIT License
       </span>
     </footer>
