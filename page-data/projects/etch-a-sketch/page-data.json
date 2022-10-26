@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-page-template-js",
-    "path": "/projects/etch-a-sketch",
-    "result": {"data":{"markdownRemark":{"html":"<p>This mini-project was one of the first I have ever built. It is a simple app that creates a grid with desired length and colors squares on hover. App is written with HTML, CSS, and vanilla JavaScript and was my first hands-on experience with DOM manipulation.  Looking back it was a simple but essential project to understand the underlying logic of DOM manipulation and core HTML and CSS concepts.\nPlus - 5-year-olds love it!</p>","frontmatter":{"listName":"🎨 /Etch-a-sketch","nameOfClass":"projects-items miniProjects","popupGithubLink":"https://github.com/Kielx/etch-a-sketch","popupImageAlt":"Etch a sketch app","popupImageSrc":"etch-a-sketch.png","popupLiveLink":"https://etch-a-sketch.pantak.net/","techIcons":["html5","css3","javascript"],"title":"Etch-a-sketch","video":"false"}}},"pageContext":{"slug":"projects/etch-a-sketch"}},
-    "staticQueryHashes": ["4202924991"]}

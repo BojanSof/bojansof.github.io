@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbojansof_portfolio=self.webpackChunkbojansof_portfolio||[]).push([[678],{7704:function(e,t,l){l.r(t);var n=l(7294),a=l(2413),r=l(6179),o=l(5604),c=l(9219);t.default=function(){return n.createElement(n.Fragment,null,n.createElement(r.Z,{title:"Terminal Portfolio"}),n.createElement(a.Z,null,n.createElement(c.Z,null),n.createElement("div",{className:"container"},n.createElement(o.Z,{text:"~ $ls -l",delay:"natural"}))))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-17a6f196d890c1acf4f8.js.map
