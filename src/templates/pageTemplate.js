@@ -3,7 +3,6 @@ import { graphql } from "gatsby"
 import PopupTerminalWindow from "../components/PopupTerminalWindow"
 import Seo from "../components/seo"
 import Layout from "../components/layout"
-import { withPrefix } from 'gatsby'
 
 
 export default function Template({
@@ -18,7 +17,7 @@ export default function Template({
         <PopupTerminalWindow
           title={frontmatter.title}
           video={frontmatter.video}
-          popupImageSrc={withPrefix(frontmatter.popupImageSrc)}
+          popupImageSrc={frontmatter.popupImageSrc}
           popupImageAlt={frontmatter.popupImageAlt}
           popupGithubLink={frontmatter.popupGithubLink}
           popupLiveLink={frontmatter.popupLiveLink}
