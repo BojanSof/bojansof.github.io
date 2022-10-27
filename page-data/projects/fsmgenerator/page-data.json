@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-js",
+    "path": "/projects/fsmgenerator",
+    "result": {"data":{"markdownRemark":{"html":"<p>FSM-Generator is a header-only library providing compile-time event-based FSM(Finite State Machine generator), using modern C++.\nThe library can save writing boiler-plate <code>if-else</code> code found typically when implementing FSMs and keep the state machine code more organized and easy to read.\nThe C++17 standard is used. The library doesn't use dynamic allocation or run-time polymorphism, making it suitable for embedded platforms.</p>","frontmatter":{"listName":"🛠 /FSM Generator","nameOfClass":"projects-items","popupGithubLink":"https://github.com/BojanSof/FSM-Generator","popupImageAlt":"finite state machine","popupImageSrc":"fsm.webp","popupLiveLink":"","techIcons":["cplusplus","cmake"],"title":"Compile-time FSM Generator","video":"false"}}},"pageContext":{"slug":"projects/fsmgenerator"}},
+    "staticQueryHashes": ["4202924991"]}
