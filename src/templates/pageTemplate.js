@@ -3,6 +3,8 @@ import { graphql } from "gatsby"
 import PopupTerminalWindow from "../components/PopupTerminalWindow"
 import Seo from "../components/seo"
 import Layout from "../components/layout"
+import { withPrefix } from 'gatsby'
+
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
@@ -16,7 +18,7 @@ export default function Template({
         <PopupTerminalWindow
           title={frontmatter.title}
           video={frontmatter.video}
-          popupImageSrc={frontmatter.popupImageSrc}
+          popupImageSrc={withPrefix(frontmatter.popupImageSrc)}
           popupImageAlt={frontmatter.popupImageAlt}
           popupGithubLink={frontmatter.popupGithubLink}
           popupLiveLink={frontmatter.popupLiveLink}

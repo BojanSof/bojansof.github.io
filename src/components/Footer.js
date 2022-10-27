@@ -75,7 +75,7 @@ const Footer = () => {
       >
         © {new Date().getFullYear()} Bojan Sofronievski {" | "} Source code
         distributed under MIT License<br/>
-        Original by 
+        Original by;&nbsp;
         <a
           href="https://github.com/Kielx/terminal-portfolio"
         >
