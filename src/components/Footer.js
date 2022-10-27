@@ -73,8 +73,14 @@ const Footer = () => {
           paddingBottom: "10px",
         }}
       >
-        © 2022-{new Date().getFullYear()} Bojan Sofronievski {" | "} Source code
-        distributed under MIT License
+        © {new Date().getFullYear()} Bojan Sofronievski {" | "} Source code
+        distributed under MIT License<br/>
+        Original by 
+        <a
+          href="https://github.com/Kielx/terminal-portfolio"
+        >
+          Krzysztof Pantak
+        </a>.
       </span>
     </footer>
   )

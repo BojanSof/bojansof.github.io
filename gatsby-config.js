@@ -9,7 +9,7 @@ module.exports = {
     titleTemplate: `%s | Bojan Sofronievski Portfolio`,
     description: `Terminal -command-line themed portfolio featuring projects ranging from robust Gatsby PWA's, React APPs and FullStack Web APPs utilizing cloud platforms to simple HTML, CSS and JavaScript sites.`,
     author: `@BojanSofronievski`,
-    url: "https://bojansof.github.io",
+    url: "https://bojansof.github.io/terminal-portfolio",
     image: "",
     twitterUsername: "",
   },
@@ -34,7 +34,7 @@ module.exports = {
         background_color: `#1b2d3a`,
         theme_color: `#1b2d3a`,
         display: `minimal-ui`,
-        icon: `src/images/bojan-profile.jpg`, // This path is relative to the root of the site.
+        icon: `src/images/icon.png`, // This path is relative to the root of the site.
       },
     },
     {

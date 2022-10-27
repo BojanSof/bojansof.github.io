@@ -4,7 +4,7 @@ nameOfClass: "projects-items"
 added: "2022-10-26"
 title: "STM32F4 BlackPill C++ libraries"
 video: "false"
-listName: "🌎 /STM32F4x1 C++ libraries"
+listName: "🔲 /STM32F4x1 C++ libraries"
 popupImageSrc: "stm32f4-blackpill.webp"
 popupImageAlt: "STM32F4 Blackpill board"
 popupLiveLink: ""
@@ -20,4 +20,4 @@ STM32F4 BlackPill C++ libraries is a project providing modern C++ interfaces for
 
 The purpose of the project is to learn how to use modern C++ constructs for embeddded software development, in combination with CMake for project management.
 The C++17 standard is used and many examples for how to use the interfaces are provided.
-Two additional projects are developed with intention to be used alongside this project: EmbeddedGfx, graphical library for embedded targets, and FSM-Generator, compile-time FSM generator written using the C++17 standard.
+Two additional projects are developed with intention to be used alongside this project: [EmbeddedGfx](https://github.com/nikodinovska/EmbeddedGfx), graphics library for embedded targets, and [FSM-Generator](https://github.com/BojanSof/FSM-Generator), compile-time FSM generator written using the C++17 standard.

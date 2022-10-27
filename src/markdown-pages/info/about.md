@@ -4,13 +4,14 @@ video: "false"
 listName: "👨‍💻 /About"
 title: "About me"
 popupImageSrc: "bojan-sofronievski.jpg"
-popupImageAlt: "Cartoon photo of myself"
+popupImageAlt: "Photo of myself"
 popupGithubLink: "https://github.com/BojanSof"
 techIcons: [
         "cplusplus", 
         "c",
         "python", 
-        "linux"
+        "linux",
+        "cmake"
       ]
 ---
 
