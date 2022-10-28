@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-js",
+    "path": "/projects/fractals",
+    "result": {"data":{"markdownRemark":{"html":"<p>This program contains collection of fractals, which can be accessed from a simple gui.\nFew of them have unique properties, which can be easily changed from the gui.\nMandelbrot set, Sierpinski triangle, Koch snowflake are among the few fractals implemented in this project.\nThe fractals can be saved as an image, with preferred width and height.\nThe project is developed in Java, using JavaFX and managed with maven.\nEclipse IDE was used.</p>","frontmatter":{"listName":"๛ /Fractals","nameOfClass":"projects-items","popupGithubLink":"https://github.com/BojanSof/Fractals","popupImageAlt":"Mandelbrot set","popupImageSrc":"fractals.png","popupLiveLink":"","techIcons":["java","apachemaven","eclipseide"],"title":"Fractals","video":"false"}}},"pageContext":{"slug":"projects/fractals"}},
+    "staticQueryHashes": ["4202924991"]}

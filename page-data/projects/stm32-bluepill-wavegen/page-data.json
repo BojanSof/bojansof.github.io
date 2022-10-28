@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-js",
+    "path": "/projects/stm32-bluepill-wavegen",
+    "result": {"data":{"markdownRemark":{"html":"<p>BluePill WaveGen is a DDS function generator implemented with STM32 BluePill board, based on STM32F103C8T6 microcontroller, 8-bit R-2R ladder DAC and additional circuitry for removing the DC offset.\nThe user interface is realized with OLED display based on SSD1306 controller and incremental rotary encoder.\nThe generator provides the basic waveform shapes, like sine waves, square waves and triangle waves.\nThe firmware is developed in C, using STM32 CubeIDE and HAL.</p>","frontmatter":{"listName":"🔲 /STM32 BluePill WaveGen","nameOfClass":"projects-items","popupGithubLink":"https://github.com/BojanSof/BluePillWaveGen","popupImageAlt":"3D render of wavegen PCB","popupImageSrc":"bluepill-wavegen.png","popupLiveLink":"","techIcons":["c","stmicroelectronics"],"title":"STM32 BluePill WaveGen","video":"false"}}},"pageContext":{"slug":"projects/stm32-bluepill-wavegen"}},
+    "staticQueryHashes": ["4202924991"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-js",
+    "path": "/projects/chip8-interpreter",
+    "result": {"data":{"markdownRemark":{"html":"<p><a href=\"https://en.wikipedia.org/wiki/CHIP-8\">CHIP-8 Interpreter</a>, written in x86 MASM.\nCHIP-8 is an interpreted programming language, developed in mid-1970s with goal of allowing video games to be more easily programmed on the 8-bit computers of that time period.\nTested under <a href=\"https://www.dosbox.com/\">DOSBox</a> with few games.</p>","frontmatter":{"listName":"📺 /CHIP-8 interpreter","nameOfClass":"projects-items","popupGithubLink":"https://github.com/BojanSof/CHIP-8-Interpreter","popupImageAlt":"chip8 games","popupImageSrc":"chip8.png","popupLiveLink":"","techIcons":["notepadplusplus"],"title":"CHIP-8 interpreter","video":"false"}}},"pageContext":{"slug":"projects/chip8-interpreter"}},
+    "staticQueryHashes": ["4202924991"]}

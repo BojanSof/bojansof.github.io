@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-js",
+    "path": "/projects/Pseudo3D-road",
+    "result": {"data":{"markdownRemark":{"html":"<p>Pseudo-3D (or 2.5D) perspective creates the illsuion of environment with three dimensions by using two-dimensional plane.\nThe program renders random pseudo-3d road with random curves and hills.\nIt is developed in C++ using <a href=\"https://www.sfml-dev.org/\">SFML</a> and simple makefile for building.</p>","frontmatter":{"listName":"🛣️ /Pseudo3D road","nameOfClass":"projects-items","popupGithubLink":"https://github.com/BojanSof/Pseudo3D-road","popupImageAlt":"pseudo3d road example","popupImageSrc":"","popupLiveLink":"","techIcons":["cplusplus","sfml"],"title":"Pesudo3D road","video":"pseudo3d.webm"}}},"pageContext":{"slug":"projects/Pseudo3D-road"}},
+    "staticQueryHashes": ["4202924991"]}
