@@ -79,10 +79,10 @@ export default function PopupTerminalWindow({
               height="100%"
               width="100%"
               controls
-              autoplay
+              autoPlay
               muted
               loop
-              playsinline
+              playsInline
               className="popupTerminaWindowImage"
             >
               <source src={video} type="video/mp4" />

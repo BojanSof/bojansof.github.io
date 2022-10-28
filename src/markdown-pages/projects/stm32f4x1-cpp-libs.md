@@ -13,6 +13,7 @@ techIcons: [
         "cplusplus",
         "c",
         "cmake",
+        "stmicroelectronics"
       ]
 ---
 
