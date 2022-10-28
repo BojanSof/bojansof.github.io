@@ -9,7 +9,7 @@ module.exports = {
     titleTemplate: `%s | Bojan Sofronievski Portfolio`,
     description: `Terminal -command-line themed portfolio featuring projects ranging from robust Gatsby PWA's, React APPs and FullStack Web APPs utilizing cloud platforms to simple HTML, CSS and JavaScript sites.`,
     author: `@BojanSofronievski`,
-    url: "https://bojansof.github.io/terminal-portfolio",
+    url: "https://bojansof.github.io/",
     image: "",
     twitterUsername: "",
   },
