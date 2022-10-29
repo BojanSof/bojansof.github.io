@@ -6,7 +6,7 @@ title: "Pesudo3D road"
 video: "pseudo3d.webm"
 listName: "🛣️ /Pseudo3D road"
 popupImageSrc: ""
-popupImageAlt: "pseudo3d road example"
+popupImageAlt: ""
 popupLiveLink: ""
 popupGithubLink: "https://github.com/BojanSof/Pseudo3D-road"
 techIcons: [
