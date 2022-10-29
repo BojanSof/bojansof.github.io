@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-js",
+    "path": "/projects/cellular-automata",
+    "result": {"data":{"markdownRemark":{"html":"<p>This project is collection of cellular automata simulations.\nA <a href=\"https://en.wikipedia.org/wiki/Cellular_automaton\">cellular automaton</a> is a collection of cells arranged in a grid of specific shape, such that each cell changes state as a function of time, according to a defined set of rules driven by the states of neighboring cells.\nThe interface for cellular automaton allows implementing other cellular automata easily.\nThe project is developed in C++ using <a href=\"https://www.sfml-dev.org/\">SFML</a> and simple makefile for building.</p>","frontmatter":{"listName":"▦ /Cellular automata","nameOfClass":"projects-items","popupGithubLink":"https://github.com/BojanSof/CellularAutomata","popupImageAlt":"","popupImageSrc":"","popupLiveLink":"","techIcons":["cplusplus","sfml"],"title":"Cellular automata","video":"cellular-automata.webm"}}},"pageContext":{"slug":"projects/cellular-automata"}},
+    "staticQueryHashes": ["4202924991"]}
