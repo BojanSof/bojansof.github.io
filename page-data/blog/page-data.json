@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-js",
+    "path": "/blog",
+    "result": {"data":{"markdownRemark":{"html":"<p>My personal blog for topics that I am interested in.\nMainly programming, electronics and embedded systems.</p>","frontmatter":{"listName":"🖊️ /Blog","nameOfClass":null,"popupGithubLink":null,"popupImageAlt":"Bojan's Personal Blog","popupImageSrc":"blog.jpg","popupLiveLink":"https://bojansof.github.io/blog/","techIcons":null,"title":"Personal Blog","video":"false"}}},"pageContext":{"slug":"/blog"}},
+    "staticQueryHashes": ["4202924991"]}
