@@ -17,6 +17,5 @@ techIcons: [
 
 ## Bojan Sofronievski
 
-Electrical engineer based in Macedonia 🇲🇰.<br>
-BSc in Electrical Engineering and Information Technologies, Computer Hardware Engineering and Electronics.<br>
+MSc in Electrical Engineering and Information Technologies, Embedded Systems.<br>
 Passionate about Embedded Software Development, Signal Processing, Algorithm Development, and everything tech-related.<br>

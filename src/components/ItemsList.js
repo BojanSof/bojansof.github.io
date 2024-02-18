@@ -196,7 +196,7 @@ export default function ItemsList() {
     return (
       <>
         <li>→ Info:</li> {info} <li>→ Projects:</li>
-        {projects} <li className="miniProject">→ Mini-Projects:</li>
+        {projects}
       </>
     )
   }
@@ -206,7 +206,7 @@ export default function ItemsList() {
       <>
         <li>→ Info:</li> {infoMobile}{" "}
         <li>→ Projects:</li>
-        {projectsMobile} <li className="miniProject">→ Mini-Projects:</li>
+        {projectsMobile}
       </>
     )
   }
